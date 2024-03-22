@@ -446,18 +446,24 @@ a{
 }
 
 #project1{
+    margin-right: 120px;
+    background-size: 100% 100%;
+    background-image: url(projects/CoLabCode.PNG);
+}
+
+#project2{
     margin-left: 120px;
     background-size: 100% 100%;
     background-image: url(projects/WeatherApp.PNG);
 }
 
-#project2{
+#project3{
     margin-right: 120px;
     background-size: 100% 100%;
     background-image: url(projects/TicTacToeProject.PNG);
 }
 
-#project3{
+#project4{
     margin-left: 120px;
     background-size: 100% 100%;
     background-image: url(projects/RazorpayProject.PNG);
